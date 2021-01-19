@@ -1,4 +1,6 @@
-# My realization of JavaScript 30 Day Challenge
+# My realization of JavaScript 30 Days Challenge
+
+Current progress: https://progress-bar.dev/3
 
 Source: [https://JavaScript30.com](https://JavaScript30.com)
 
