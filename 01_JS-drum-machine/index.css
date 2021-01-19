@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-  background-image: url('/images/background/1.jpg');
+  background-image: url('./images/background/1.jpg');
 }
 
 .keys_container {

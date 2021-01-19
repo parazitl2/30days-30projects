@@ -13,6 +13,10 @@ const handleKeyDown = (event) => {
   keyElement.classList.add('pulse');
 
   keyElement.addEventListener('transitionend', (e) => {
+    if (e.propertyName !== 'transform') {
+      return;
+    }
+
     keyElement.classList.remove('pulse');
   }, { once: true });
 
