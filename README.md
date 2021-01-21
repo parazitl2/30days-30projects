@@ -1,7 +1,9 @@
 # My realization of JavaScript 30 Days Challenge
 
-My current progress: 
 ![6%](https://progress-bar.dev/6)
+
+My current progress: 2 of 30
+
 
 Course source: [https://JavaScript30.com](https://JavaScript30.com)
 
