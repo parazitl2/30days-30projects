@@ -1,8 +1,8 @@
 # My realization of JavaScript 30 Days Challenge
 
-![10%](https://progress-bar.dev/10)
+![13%](https://progress-bar.dev/13)
 
-My current progress: 3 of 30
+My current progress: 4 of 30
 
 
 Course source: [https://JavaScript30.com](https://JavaScript30.com)
@@ -20,3 +20,5 @@ Projects might be changed in my own implementation as it would be more interesti
 3. [Playing with CSS Variables and JS](https://simplepshop.netlify.app) - usual app by tutorial, nothing special
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fe690656-e6ef-4e36-8a38-8066dfc56b52/deploy-status)](https://app.netlify.com/sites/simplepshop/deploys)
+
+4. Array Cardio Day 1 - solved without wathing the solution, additional tasks
