@@ -27,6 +27,10 @@ body {
   margin-bottom: 50px;
 }
 
+li {
+  list-style: none;
+}
+
 input {
   width: 100px;
 }
