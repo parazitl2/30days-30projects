@@ -26,6 +26,30 @@ const people = [
   'Billings, Josh', 'Birrell, Augustine', 'Blair, Tony', 'Beecher, Henry', 'Biondo, Frank'
 ];
 
+const inventorsElement = document.getElementById('inventors-block');
+
+const makeInventorsTable = (inventors) => {
+  const tbody = document.createElement('tbody');
+
+  inventors.forEach((inventor) => {
+    const row = document.createElement('tr');
+
+    for (const key in inventor) {
+      const colElem = document.createElement('th');
+      colElem.innerText = inventor[key];
+      row.appendChild(colElem);
+    }
+
+    tbody.appendChild(row);
+  });
+
+  return tbody;
+};
+
+const inventorsTable = makeInventorsTable(inventors);
+
+inventorsElement.appendChild(inventorsTable);
+
 // Array.prototype.filter()
 // 1. Filter the list of inventors for those who were born in the 1500's
 const inventorsOfSixteens = inventors.filter((inventor) => inventor.year < 1600 && inventor.year >= 1500);
