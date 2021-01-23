@@ -21,4 +21,6 @@ Projects might be changed in my own implementation as it would be more interesti
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fe690656-e6ef-4e36-8a38-8066dfc56b52/deploy-status)](https://app.netlify.com/sites/simplepshop/deploys)
 
-4. Array Cardio Day 1 - solved without wathing the solution, additional tasks
+4. [Array Cardio Day 1](https://arrays-cardio.netlify.app) - solved without wathing the solution, additional tasks
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bda7b4ca-9509-49f8-9500-5cd6162fa505/deploy-status)](https://app.netlify.com/sites/arrays-cardio/deploys)
