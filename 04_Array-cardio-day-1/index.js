@@ -119,4 +119,5 @@ console.table(inventorsSortedByLastName);
 // Sum up the instances of each of these
 const data = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car', 'truck' ];
 const uniqueInstances = Array.from(new Set(data));
-console.log(uniqueInstances);
+const sums = data.reduce((acc, item) => ({...acc, [item]: acc[item] ? acc[item] + 1 : 1}), {});
+console.log(sums);
