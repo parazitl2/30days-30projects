@@ -1,8 +1,8 @@
 # My realization of JavaScript 30 Days Challenge
 
-![16%](https://progress-bar.dev/16)
+![20%](https://progress-bar.dev/20)
 
-My current progress: 5 of 30
+My current progress: 6 of 30
 
 
 Course source: [https://JavaScript30.com](https://JavaScript30.com)
@@ -41,6 +41,6 @@ CSS gallery, click on the image to see the transition effect
 
 ### 6. [Type ahead](https://type-ahead-cities.netlify.app)
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87f60e52-62a5-4a79-a997-bcf3b7b1453a/deploy-status)](https://app.netlify.com/sites/type-ahead-cities/deploys)
 
 Search for cities in states and enjoy
