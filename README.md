@@ -38,3 +38,9 @@ Array built-in methods training. See the console for results. Some info is place
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f87a51b8-0ad6-458c-8d1e-645670ee1c54/deploy-status)](https://app.netlify.com/sites/flex-img-gallery/deploys)
 
 CSS gallery, click on the image to see the transition effect
+
+### 6. [Type ahead](https://type-ahead-cities.netlify.app)
+
+
+
+Search for cities in states and enjoy
